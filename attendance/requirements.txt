@@ -1,0 +1,7 @@
+# Core libraries
+deepface==0.0.93
+tensorflow==2.10.0
+opencv-python==4.7.0.72
+numpy>=1.19.0
+pandas>=1.1.0
+
